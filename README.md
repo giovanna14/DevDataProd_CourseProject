@@ -6,8 +6,8 @@ of the assignments for the course "Developing Data Products"
 of the Johns Hopkins University on Coursera.
 
 The application is called Solar_activity_watcher and is
-hosted on the shinyapps.io server at the URL:
-https://www.shinyapps.io/admin/#/application/47022
+hosted on the shinyapps.io server at the URL:  
+https://giovanna-temporin.shinyapps.io/Solar_activity_watcher
 
 For local use it requires R and RStudio to be installed,
 as well as the shiny package.
